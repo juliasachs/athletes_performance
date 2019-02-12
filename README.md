@@ -4,10 +4,9 @@ How does pressure influence the performance of athletes?
 Some athletes perform at their best during high pressure situations as e.g. LeBron James for Cleveland delivered an outstanding performance (Game 7 of the NBA Finals between Golden State and Cleveland) and wins with Cleveland the first championship in the Franchise history. Whereas the other athletes struggle to perform at their best as e.g. Drew Brees Quarterback of New Orleans. An outstanding quarterback with great stats during the regular Season shows a different performance in the play offs.  Why was he not able to keep up with the level he performed on the entire Season?
 
 It is not a secret that a player of the level as LeBron James can perform under pressure and actually raise his level to perform on his peak. But what is with all the other players and role players whose come in from time to time? Many players struggle with pressure and their performance decreases. Missing shots they would usually make or taking bad decisions that cause turnover are the most obvious signs. 
-
 To win a championship as a team, you need players to perform well under different levels of pressure. So I asked myself what indicators you have to measure if players can hold up to it, to put the optimal team for different phases in a game together, which is able to raise their overall level under pressure.
-The project will use the Play-by-Play dataset which includes detailed information about all events of the game including their time of occurrence for all NBA games. This includes e.g. the type of shot, fouls. So for Play-by-Play data for season 2016/2017 (90MB) was analyzed but will be extended to include data of several NBA seasons which will be gathered via available APIs:
 
+The project will use the Play-by-Play dataset which includes detailed information about all events of the game including their time of occurrence for all NBA games. This includes e.g. the type of shot, fouls. So for Play-by-Play data for season 2016/2017 (90MB) was analyzed but will be extended to include data of several NBA seasons which will be gathered via available APIs:
 https://drive.google.com/file/d/0B5QcyddjOpKOODZjZ0FJU3JSakU/view
 https://github.com/bradleyfay/py-goldsberry
 https://github.com/ethanluoyc/statsnba-playbyplay
