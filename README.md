@@ -1,7 +1,6 @@
 # athletes_performance
 How does pressure influence the performance of athletes?
 
-How does pressure influence the performance of athletes?
 Some athletes perform at their best during high pressure situations as e.g. LeBron James for Cleveland delivered an outstanding performance (Game 7 of the NBA Finals between Golden State and Cleveland) and wins with Cleveland the first championship in the Franchise history. Whereas the other athletes struggle to perform at their best as e.g. Drew Brees Quarterback of New Orleans. An outstanding quarterback with great stats during the regular Season shows a different performance in the play offs.  Why was he not able to keep up with the level he performed on the entire Season?
 
 It is not a secret that a player of the level as LeBron James can perform under pressure and actually raise his level to perform on his peak. But what is with all the other players and role players whose come in from time to time? Many players struggle with pressure and their performance decreases. Missing shots they would usually make or taking bad decisions that cause turnover are the most obvious signs. 
