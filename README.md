@@ -18,5 +18,4 @@ The effect of several indicators as score, minutes remaining in game, position o
 The key criteria will be used to analyze the performance of teams and players separately to identify how it changes in different situations.
 3)	Which teams and player belong to the same category?
 Using a cluster analysis the teams and player will be assigned to different categories based on the effect of different criteria on their performance. 
-4)	For a given scenario (teams playing, time in game, score,..) which payers would have the highest performance? Likelihood of team to win?
-A interactive web-tool will be generated which uses all the above information to predict which players would show the highest performance in a given scenario (teams playing against each other, score, time remaining…) defined by the user.
+4)	Which type of player would improve the performance of a certain team?
