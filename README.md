@@ -6,6 +6,8 @@ Some athletes perform at their best during high pressure situations as e.g. LeBr
 It is not a secret that a player of the level as LeBron James can perform under pressure and actually raise his level to perform on his peak. But what is with all the other players and role players whose come in from time to time? Many players struggle with pressure and their performance decreases. Missing shots they would usually make or taking bad decisions that cause turnover are the most obvious signs. 
 To win a championship as a team, you need players to perform well under different levels of pressure. So I asked myself what indicators you have to measure if players can hold up to it, to put the optimal team for different phases in a game together, which is able to raise their overall level under pressure.
 
+AIM : Provide a framework to evaluate the performance of NBA players under pressure which can also used for recruitment of players from College  Basketball (NCAA). 
+
 The project will use the Play-by-Play dataset which includes detailed information about all events of the game including their time of occurrence for all NBA games. This includes e.g. the type of shot, fouls. So for Play-by-Play data for season 2016/2017 (90MB) was analyzed but will be extended to include data of several NBA seasons which will be gathered via available APIs:
 https://drive.google.com/file/d/0B5QcyddjOpKOODZjZ0FJU3JSakU/view
 https://github.com/bradleyfay/py-goldsberry
@@ -19,3 +21,18 @@ The key criteria will be used to analyze the performance of teams and players se
 3)	Which teams and player belong to the same category?
 Using a cluster analysis the teams and player will be assigned to different categories based on the effect of different criteria on their performance. 
 4)	Which type of player would improve the performance of a certain team?
+
+## First findings
+
+
+![Shots missed (red) and made (blue) by quater and time.](miss_make.png)]
+
+![a) Influence of time.](miss_make_1.png) ![a) Influence of number of quater.](miss_make_2.png)
+
+The Iinfluence of time within each quarter can be noted in an increase in missed shots in the beginning and end of each quater following a parabolic shape. The number of quaters on the other hand shows a linear patter with an increase of missed shots for a later quater.
+
+
+![](free_thows.png)] ![](free_thows2.png)
+
+The effect of the score difference on the numbers of free throws missed shows itself in particular in the first and fourth quater. In the first quater, an increased score difference (e.g. one team being ahead early in the game) leads to a higher number of free thows missed. In contrast to that, the number of missed free throws for a lower score difference is higher in the forth quater. Looking at the distribution for all teams, we see a high variance which indicated that the performance of teams highly varies.
+
